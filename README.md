@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ger-chatz
 
-🎓 MSc AI and Data Science – AUEB  
+🎓 MSc in AI and Data Science – AUEB  
 🎓 MSc in Applied Statistics – AUEB  
 🎓 BSc in Statistics and Insurance Science – UNIPI  
 📌 Statistician / Data Scientist focused on applied machine learning and statistical modeling  
