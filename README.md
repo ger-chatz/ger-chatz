@@ -2,7 +2,7 @@
 
 🎓 2.MSc AI and Data Science – AUEB  
 🎓 1.MSc in Applied Statistics – AUEB  
-📊 BSc in Statistics and Insurance Science – UNIPI  
+🎓 BSc in Statistics and Insurance Science – UNIPI  
 📌 Statistician / Data Scientist focused on applied machine learning and statistical modeling  
 🧠 Currently learning about generative AI and advanced recommender systems  
 
